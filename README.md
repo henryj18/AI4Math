@@ -1,4 +1,4 @@
-# Foundation Models/Datasets for Mathematics & theoretical Computer Science
+# Foundation Models/Datasets for Mathematics & Theoretical Computer Science
 ## Overview
 Mathematics & reasoning has always been one of the golden standards to gauge intelligence. In the era of Generative AI, empowering AI systems with mathematics & reasoning capability is becoming an indispensable requirement.
 
