@@ -1,14 +1,14 @@
 # Foundation Models/Datasets for Mathematics & Theoretical Computer Science
 ## Overview
-Mathematics & reasoning has always been one of the golden standards to gauge intelligence. In the era of Generative AI, empowering AI systems with mathematics & reasoning capability is becoming an indispensable requirement.
+In the era of Generative AI, empowering AI systems with mathematics & reasoning capability is becoming an indispensable requirement. Such capability has always been one of the golden standards to gauge intelligence, human or artificial.
 
-This project aims to collect/curate datasets on mathematics and theoretical computer science, and train/fine-tune open source LLLs to solve problems in areas incuding, but not limited to the following:
+This project aims to collect/curate datasets on mathematics and theoretical computer science, and train/fine-tune open source LLLs to solve problems in areas including, but not limited to the following:
 
 - Calculus
 - Linear Algebra
 - Probability and Statistics
-- Odinary Differential Equations
-- Partial Differentila Equaitons
+- Ordinary Differential Equations
+- Partial Differential Equations
 - Optimization (linear, nonlinear, convex)
 - Numerical analysis
 - .........
@@ -17,3 +17,4 @@ This project aims to collect/curate datasets on mathematics and theoretical comp
 - Trees, Graphs
 - Searching/sorting algorithms, BFS, DFS, etc.
 - Time and space complexity
+
