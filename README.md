@@ -1,3 +1,5 @@
+## We have moved to the new [repo](https://github.com/AI4MathSci/MathDataFusion)
+
 # Foundation Models/Datasets for Mathematics & Theoretical Computer Science
 ## Overview
 In the era of Generative AI, empowering AI systems with mathematics & reasoning capability is becoming an indispensable requirement. Such capability has always been one of the golden standards to gauge intelligence, human or artificial.
